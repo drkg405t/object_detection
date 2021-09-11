@@ -2,7 +2,7 @@ import cv2
 from matplotlib import pyplot as plt
 
 # open image
-img = cv2.imread("c8.jpg")
+img = cv2.imread(image)
 
 # OpenCV opens an image as RGB
 # but we want it as RGB and
